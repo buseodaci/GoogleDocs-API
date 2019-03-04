@@ -24,7 +24,7 @@ public class DocsQuickstart {
     private static final String APPLICATION_NAME = "Google Docs API Java Quickstart";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
     private static final String TOKENS_DIRECTORY_PATH = "tokens";
-    private static final String DOCUMENT_ID = "YOUT_DOCUMENT_ID";
+    private static final String DOCUMENT_ID = "YOUR_DOCUMENT_ID";
     private static final List<String> SCOPES = Collections.singletonList(DocsScopes.DOCUMENTS);
     private static final String CREDENTIALS_FILE_PATH = "/credentials.json";
 
